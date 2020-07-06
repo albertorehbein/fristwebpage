@@ -2,3 +2,6 @@ Esto es un texto plano de ejemplo
 para aprender a usar git
 
 hablare de roco y copito
+
+copito es pequeño
+
